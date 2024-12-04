@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome", "vsaxgvsud"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Mars"
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "J.K. Rowling"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the largest mammal?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Great White Shark"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": ["300,000 km/s", "150,000 km/s", "120,000 km/s", "500,000 km/s"],
+    "answer": "300,000 km/s"
+  }
+]
